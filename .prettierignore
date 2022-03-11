@@ -4,3 +4,4 @@ package.json,
 package-lock.json
 *.html
 *.md
+node_modules
