@@ -1,0 +1,6 @@
+dist
+.vscode
+package.json,
+package-lock.json
+*.html
+*.md
